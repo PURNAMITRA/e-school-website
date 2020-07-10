@@ -1,14 +1,4 @@
-/* .container{
-    margin-bottom:100px;
-}
-.Logo-image img {
-    width: 300px;
-    height: 79px;
-}
-img {
-    vertical-align: middle;
-    border-style: none;
-} */
+
 body{
     font-family: 'Poppins', sans-serif;
 }
@@ -52,16 +42,7 @@ nav{
     border-bottom: 3px solid #21B573;
     font-weight: 500;
 }
-/* .btn-design{
-    background: #21B573;
-    border: 2px solid #21B573; 
-    border-radius: 33px;
-    padding: 8px 28px;
-    color: #FFFFFF;
-    cursor: pointer;
-    font-size: 16px;
-    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
-}  */
+
 .btn-design{
     background: #21B573;
     padding: 6px 28px;
@@ -104,13 +85,7 @@ nav{
     font-weight: bold;
     font-size: 48px;
 } 
-/* .carousel-indicators li{
-    width: 14px;
-    height: 14px; 
-    border-radius: 50%;
-    border: 2px solid #21B573;
-    background-color: #F0FFF0;
-} */
+
 #books .card{
     background: #F8FFFB;
     border: none;
